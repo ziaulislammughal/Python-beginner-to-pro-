@@ -31,7 +31,7 @@ Integer-float operations yield floats to maintain precision, while boolean value
 1. **Clone the repository:**
 
     ```bash
-    https://github.com/ziaulislammughal/Practice-python-programming.git
+   https://github.com/ziaulislammughal/Python-beginner-to-pro-.git
 
     ```
 
